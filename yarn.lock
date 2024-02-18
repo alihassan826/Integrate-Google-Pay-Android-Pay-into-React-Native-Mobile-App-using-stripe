@@ -1893,6 +1893,11 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
+"@stripe/stripe-react-native@^0.37.0":
+  version "0.37.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-react-native/-/stripe-react-native-0.37.0.tgz#1b214bd26df5f0bec7957c720fa76fc2ac063b18"
+  integrity sha512-9pQNog+hMqeSiEE/9Q9OSNEmyq7enqDkTQClXWgFCXYDOjX/FjUoV+3VFTxbEPJANAvFX1Vs43pI2j4t6M5Enw==
+
 "@types/babel__core@^7.1.14":
   version "7.20.5"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.20.5.tgz#3df15f27ba85319caa07ba08d0721889bb39c017"
